@@ -1,0 +1,13 @@
+.floatingCounter{
+  background-color: darkblue;
+  padding: 1px;
+  padding-left: 20px;
+  width: 200px;
+  position: fixed;
+  right: 100px;
+  top: 10px;
+}
+
+.floatingText{
+  color: yellow;
+}
